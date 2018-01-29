@@ -6,6 +6,8 @@ This is TensorFlow version of [Unsupervised Cross-Domain Image Generation (2016)
 
 ### Paper Summary
 
+Will be added...
+
 ![](./images/summary.png)
 
 ![](./images/loss.png)
@@ -76,6 +78,8 @@ __...Under Construction...__
 - Fix blurry image problem (I tried : L1, L2, Hinge loss)
 
 ### Current result
+
+Will be added...
 
 ### Memo
 
