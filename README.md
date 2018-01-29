@@ -38,15 +38,15 @@ Will be added...
 
 5. Move Clothes dataset to repository
 
-`cd TF-Domain-Transfer-Network`
+`cd TF-Domain-Transfer-Network
 
-`mv ~/Downloads/list_bbox.txt ~/Downloads/img.zip Fashion-images`
+mv ~/Downloads/list_bbox.txt ~/Downloads/img.zip Fashion-images
 
-`unzip img.zip`
+unzip img.zip
 
-`mv img/* .`
+mv img/* .
 
-`rm img.zip`
+rm img.zip`
 
 ### Setting and Test Codes
 
